@@ -11,6 +11,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
+<!-- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> &nbsp -->
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a> &nbsp
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> &nbsp

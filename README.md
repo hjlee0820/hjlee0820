@@ -1,7 +1,7 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋 I'm LHJ!</h3>
 </br>
 </br>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h4 align="center"><b>🛠 Tech Stack 🛠</b></h4>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -44,7 +44,7 @@
 <!-- <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a> &nbsp -->
 </p>
 
-<p><a>http://hjlee0820.github.io</a></p>
+#### [github-page](https://hjlee0820.github.io, "github-page")
 
 
 <!--

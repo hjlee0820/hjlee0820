@@ -1,8 +1,9 @@
-<h3 align="center">Hi there 👋 I'm LHJ!</h3>
-</br>
-<h4 align="center"><b>🛠 Tech Stack 🛠</b></h4>
-</br>
-<p align="center">
+<h3>Hi there 👋 I'm LHJ!</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=vue&langs_count=5)](https://github.com/hjlee0820)
+
+<h4><b>🛠 Tech Stack 🛠</b></h4>
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
@@ -24,6 +25,9 @@
 
 <p align="center">
 <!-- 튜토리얼 수준 -->
+<!-- <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/></a> &nbsp -->
+<!-- <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/></a> &nbsp -->
+  
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white"/></a> &nbsp -->
 
@@ -48,7 +52,11 @@
 <!-- <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> &nbsp -->
 </p>
 
+
+
 #### [github-page](https://hjlee0820.github.io "github-page")
+
+
 
 
 <!--

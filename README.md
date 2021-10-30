@@ -1,10 +1,13 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=dark&langs_count=10" />
-</a>
+
 <h3>Hi there 👋 I'm LHJ!</h3>
 
-<h4><b>🛠 Tech Stack 🛠</b></h4>
-<p>
+<!-- <h4 align="center"><b>🛠 Tech Stack 🛠</b></h4> -->
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=dark&langs_count=10" />
+</a>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
@@ -22,7 +25,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </br>
-</p>
+</br>
+</br>
 
 <p align="center">
 <!-- 튜토리얼 수준 -->
@@ -58,9 +62,11 @@
 
 
 #### [github-page](https://hjlee0820.github.io "github-page")
-
-
-
+<!-- 
+| ㅁㅁ | ㄴㄴ |
+|-----|-----|
+|      |     |
+ -->
 
 <!--
 **hjlee0820/hjlee0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

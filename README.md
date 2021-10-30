@@ -1,3 +1,6 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=dark&langs_count=10" />
+</a>
 <h3>Hi there 👋 I'm LHJ!</h3>
 
 <h4><b>🛠 Tech Stack 🛠</b></h4>
@@ -50,11 +53,6 @@
 <!-- <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> &nbsp -->
 </p>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=dark&langs_count=10" />
-</a>
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlee0820&count_private=true&theme=dark)
 
 

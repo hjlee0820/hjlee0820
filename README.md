@@ -1,6 +1,6 @@
 <h3>Hi there 👋 I'm LHJ!</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=vue&langs_count=5)](https://github.com/hjlee0820)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=vue&langs_count=6)](https://github.com/hjlee0820)
 
 <h4><b>🛠 Tech Stack 🛠</b></h4>
 <p>

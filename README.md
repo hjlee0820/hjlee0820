@@ -51,9 +51,9 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=vue&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=dark&langs_count=10)](https://github.com/hjlee0820)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlee0820&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlee0820&count_private=true&theme=dark)
 
 
 

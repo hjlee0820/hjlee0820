@@ -1,7 +1,5 @@
 <h3>Hi there 👋 I'm LHJ!</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=vue&langs_count=6)](https://github.com/hjlee0820)
-
 <h4><b>🛠 Tech Stack 🛠</b></h4>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
@@ -51,6 +49,11 @@
 <!-- <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> &nbsp -->
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjlee0820&layout=compact&theme=vue&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjlee0820&count_private=true)
 
 
 
